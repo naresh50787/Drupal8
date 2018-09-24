@@ -1,0 +1,14 @@
+uuid: c3dc2fc0-a480-4df2-9f8b-252e43837bfa
+name: 'Drupal 8'
+mail: drupal8@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
